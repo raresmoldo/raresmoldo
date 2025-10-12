@@ -16,8 +16,8 @@ I like solving problems with code, experimenting with new technologies, and crea
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, JavaScript, HTML, CSS  
-- **Tools:** Git & GitHub, Visual Studio Code, GitHub Copilot  
+- **Languages:** C++, JavaScript, HTML, CSS, Python
+- **Tools:** Git & GitHub, Visual Studio Code  
 - **Other:** Basic experience with Shopify and building simple web pages
 
 ---
