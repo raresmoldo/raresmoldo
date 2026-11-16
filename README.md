@@ -7,7 +7,7 @@ I like solving problems with code, experimenting with new technologies, and crea
 
 ## 🧠 About Me
 
-- 💻 I’m currently learning **web development** and improving my skills in **C++**  
+- 💻 I'm currently learning **Cybersecurity** and **Cloud**
 - 🛠️ I enjoy building small but useful projects like weather apps, to-do lists, and simulations  
 - 📚 I like understanding how things work behind the scenes and writing clean, understandable code  
 - 🎯 My goal is to grow into a developer who builds meaningful and reliable software
@@ -16,8 +16,8 @@ I like solving problems with code, experimenting with new technologies, and crea
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++, JavaScript, HTML, CSS, Python
-- **Tools:** Git & GitHub, Visual Studio Code  
+- **Languages:** C++, JavaScript, HTML, CSS, Python, Java, SQL
+- **Tools:** Docker, Git & GitHub, Visual Studio Code, Cursor
 - **Other:** Basic experience with Shopify and building simple web pages
 
 ---
@@ -26,7 +26,7 @@ I like solving problems with code, experimenting with new technologies, and crea
 
 - 🌦️ [Weather App](https://github.com/raresmoldo/projects/tree/main/weather-app) – Displays real-time weather using an API, supports geolocation and dark mode  
 - 📝 [To-Do List App](https://github.com/raresmoldo/projects/tree/main/todo-list) – A simple and responsive task manager built with vanilla JS  
-
+- 🧸 [Toy Language Interpreter](https://github.com/raresmoldo/map-toy-interpreter) - A project from my Advanced Programming Methods class that is a Toy Language Interpreter
 📌 See more in my [Projects Repository](https://github.com/raresmoldo/projects)
 
 ---
