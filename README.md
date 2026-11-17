@@ -25,7 +25,7 @@ I like solving problems with code, experimenting with new technologies, and crea
 ## 📁 Some of My Projects
 
 - 🌦️ [Weather App](https://github.com/raresmoldo/projects/tree/main/weather-app) – Displays real-time weather using an API, supports geolocation and dark mode  
-- 📝 [To-Do List App](https://github.com/raresmoldo/projects/tree/main/todo-list) – A simple and responsive task manager built with vanilla JS  
+- 🎮 [Game Library Database](https://github.com/raresmoldo/steam-database) - A game library database similar to Steam written in PostgreSQL that is used in my Databases class
 - 🧸 [Toy Language Interpreter](https://github.com/raresmoldo/map-toy-interpreter) - A project from my Advanced Programming Methods class that is a Toy Language Interpreter
 📌 See more in my [Projects Repository](https://github.com/raresmoldo/projects)
 
